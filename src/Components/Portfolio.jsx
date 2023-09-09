@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/books.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Blood and organ donation website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Website to make blood and organ doation an easy process",
+    url: "https://bonded-by-blood.vercel.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Waste-x",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Web application for better management of domestic waste and educating people on that.",
+    url: "https://waste-x.vercel.app",
   },
   {
-    title: "My Resume Site",
+    title: "Color-Master",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Web game to guess the correct colour",
+    url: "https://color-master-lake.vercel.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Contact-Bag",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A web Application to manage your contacts better.",
+    url: "https://contact-bag.vercel.app",
   },
 ];
 
